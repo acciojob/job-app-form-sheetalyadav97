@@ -1,2 +1,37 @@
-
+body {
+    background-color: black;
+}
+form {
+    width: 500px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+h1 {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+form input {
+    border: none;
+    color: white;
+}
+form label {
+    display: inline;
+    font-weight: lighter;
+}
+label {
+    display: inline;
+    font-weight: lighter;
+    color: white;
+}
+.btn{
+    padding: 5px 30px;
+    border-radius: 0px;
+    color: black;
+}
+.FORM {
+    padding-left: 150px;
+}
+input[type=date] {
+    color: black !important;
+}
 /* Your CSS Code here. */
